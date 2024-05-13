@@ -16,7 +16,7 @@ This project is a ToDo application built using React.js. Users can log in, view,
 Clone the project to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/senaoz/playable-to-do-app.git
 cd todo-app
 ```
 
