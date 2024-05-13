@@ -215,8 +215,9 @@ Here are some example use cases for the application:
 <hr />
 
 # Screenshots
-![Screenshot 2024-05-12 at 21.04.39.png](..%2F..%2FDesktop%2FScreenshot%202024-05-12%20at%2021.04.39.png)
-![Screenshot 2024-05-12 at 21.04.36.png](..%2F..%2FDesktop%2FScreenshot%202024-05-12%20at%2021.04.36.png)
+
+<img width="964" alt="Screenshot 2024-05-12 at 21 04 36" src="https://github.com/senaoz/playable-to-do-app/assets/66164676/9c9394f0-7c8b-49ff-928c-c78cae78f882">
+<img width="964" alt="Screenshot 2024-05-12 at 21 04 39" src="https://github.com/senaoz/playable-to-do-app/assets/66164676/5334e277-a9f4-45ba-a671-a79b2ee51114">
 
 <hr />
 
